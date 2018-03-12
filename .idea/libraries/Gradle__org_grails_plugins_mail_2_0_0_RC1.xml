@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails.plugins:mail:2.0.0.RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mail/2.0.0.RC1/99fc6134625d2dd6d1cc87a95641905dfe874a3b/mail-2.0.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mail/2.0.0.RC1/edd43125a71e85adc5d947bba7e293a547da8c4d/mail-2.0.0.RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
